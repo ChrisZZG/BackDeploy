@@ -29,7 +29,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin
+//@CrossOrigin
+@CrossOrigin(origins = "https://portfoliocg-df90e.web.app")
 public class AuthController {
     @Autowired
     PasswordEncoder passwordEncoder;
