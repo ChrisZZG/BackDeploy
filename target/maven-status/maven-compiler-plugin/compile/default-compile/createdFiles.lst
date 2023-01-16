@@ -8,6 +8,7 @@ com\portfolio\cgp20\Security\Entity\Usuario.class
 com\portfolio\cgp20\Security\SecurityController\AuthController.class
 com\portfolio\cgp20\Security\Dto\LoginUsuario.class
 com\portfolio\cgp20\Service\SHabilidades.class
+com\portfolio\cgp20\WebConfig.class
 com\portfolio\cgp20\Security\Jwt\JwtEntryPoint.class
 com\portfolio\cgp20\Security\Jwt\JwtTokenFilter.class
 com\portfolio\cgp20\Dto\dtoHabilidades.class
